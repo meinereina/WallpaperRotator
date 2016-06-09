@@ -1,0 +1,25 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="nextImage">Nächstes Bild</system:String>
+    <system:String x:Key="close">Beenden</system:String>
+    <system:String x:Key="showHide">Zeigen / Verbergen</system:String>
+    <system:String x:Key="categories">Kategorien:</system:String>
+    <system:String x:Key="categoryRandom">Zufall</system:String>
+    <system:String x:Key="categoryBuildings">Gebäude</system:String>
+    <system:String x:Key="categoryFood">Essen</system:String>
+    <system:String x:Key="categoryNature">Natur</system:String>
+    <system:String x:Key="categoryPeople">Menschen</system:String>
+    <system:String x:Key="categoryTechnology">Technik</system:String>
+    <system:String x:Key="categoryObjects">Objekte</system:String>
+    <system:String x:Key="strechImage">Strecke ein Bild über alle Bildschirme</system:String>
+    <system:String x:Key="startWithWindows">mit Windows starten</system:String>
+    <system:String x:Key="updateIntervall">Aktualisierungsintervall:</system:String>
+    <system:String x:Key="updateIntervall1">30 Minuten</system:String>
+    <system:String x:Key="updateIntervall2">1 Stunde</system:String>
+    <system:String x:Key="updateIntervall3">2 Stunden</system:String>
+    <system:String x:Key="updateIntervall4">3 Stunden</system:String>
+    <system:String x:Key="updateIntervall5">5 Stunden</system:String>
+
+</ResourceDictionary>
